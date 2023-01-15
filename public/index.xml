@@ -5,6 +5,25 @@
     <link>https://shawnrenner.dev/</link>
     <description>Recent content on Shawn Renner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://shawnrenner.dev/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jan 2023 11:17:07 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://shawnrenner.dev/about/</link>
+      <pubDate>Sun, 15 Jan 2023 11:25:02 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/about/</guid>
+      <description> Born and raised: Kansas City Where I live now: St. Louis Occupation: Software developer First computer: Commodore 64 Primary tech stack: .NET, SQL Server, JavaScript Other dev interests: Python, IOT, Arduino, home &amp;amp; industrial automation Most excited about: WebAssembly, interfacing software with hardware </description>
+    </item>
+    
+    <item>
+      <title>Hello, World</title>
+      <link>https://shawnrenner.dev/posts/hello-world/</link>
+      <pubDate>Sun, 15 Jan 2023 11:17:07 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/posts/hello-world/</guid>
+      <description>This is the newest version of my personal website, which will host my professional profile as well as some side projects and hobbies. I am building this with a static site generator named Hugo. I like Hugo because it performs well and allows me to write content in Markdown format.</description>
+    </item>
+    
   </channel>
 </rss>

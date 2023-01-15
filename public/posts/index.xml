@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Shawn Renner</title>
+    <link>https://shawnrenner.dev/posts/</link>
+    <description>Recent content in Posts on Shawn Renner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Sun, 15 Jan 2023 11:17:07 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hello, World</title>
+      <link>https://shawnrenner.dev/posts/hello-world/</link>
+      <pubDate>Sun, 15 Jan 2023 11:17:07 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/posts/hello-world/</guid>
+      <description>This is the newest version of my personal website, which will host my professional profile as well as some side projects and hobbies. I am building this with a static site generator named Hugo. I like Hugo because it performs well and allows me to write content in Markdown format.</description>
+    </item>
+    
+  </channel>
+</rss>

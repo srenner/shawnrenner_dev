@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2023-01-15T11:25:02-06:00
-draft: true
+draft: false
 ---
 
 * Born and raised: Kansas City
