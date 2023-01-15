@@ -10,3 +10,4 @@ draft: true
 * First computer: Commodore 64
 * Primary tech stack: .NET, SQL Server, JavaScript
 * Other dev interests: Python, IOT, Arduino, home & industrial automation
+* Most excited about: WebAssembly, interfacing software with hardware
