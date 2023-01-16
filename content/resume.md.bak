@@ -1,0 +1,87 @@
+---
+title: "Résumé"
+date: 2023-01-15T16:14:58-06:00
+draft: true
+---
+
+[Download a condensed version in PDF format](https://shawnrenner.dev)
+
+---
+
+## Shawn Renner
+
+[linkedin.com/in/shawnrenner](https://linkedin.com/in/shawnrenner)  
+[github.com/srenner](https://github.com/srenner)  
+[hello@shawnrenner.dev](mailto:hello@shawnrenner.dev)  
+
+
+intro blurg
+
+## Preferred Tech Stack
+---
+- ASP.NET Core
+- Blazor Wasm or modern JS libs, such as Vue, React, Angular
+- Bootstrap for CSS
+- SQL Server (I also like PostgreSQL and Sqlite)
+- Git
+- Arduino and MicroPython/CircuitPython for IoT projects
+
+## Work Experience
+---
+
+### **Conperio Technology Solutions**
+**Senior Software Developer, Jan 2014 - Aug 2020, St. Louis, MO**
+
+#### Tech Used
+- ASP.NET MVC
+- SQL Server
+- SQL Server Reporting Services
+- jQuery
+- AngularJS 1.x
+- SignalR (WebSockets)
+- OPC ([more info](https://opcfoundation.org/about/what-is-opc/))
+- Jenkins
+- Bootstrap
+- VueJS
+- Vuetify
+- Jenkins
+- Azure
+- Git
+
+#### Summary
+
+### **Kansys, Inc.**
+**Senior Software Developer, Sept 2005 - Dec 2013, Olathe, KS**
+
+#### Tech Used
+- ASP.NET WebForms
+- JavaScript
+- jQuery
+- SQL Server
+- Oracle 9i & 10g
+- Java
+- Android
+- SQL Server Reporting Services
+- Jasper Reports
+- MongoDB
+
+#### Summary
+This job primarily served the telecommunications industry. I developed applications for order management, bill parsing, payment collections, and more. The primary UIs in use used ASP.NET WebForms, but I also wrote console apps, Windows Services, and Windows Forms applications. Between larger customer projects, I served as team lead and Android developer for Kansys Apps. The most popular app had over a million installs.
+
+### **Kforce (on site @ Sprint Corporation)**
+**Technology Contractor, Sept 2004 - Sept 2005, Overland Park, KS**
+
+#### Tech Used
+- VBA
+- Blue Martini RDBS (now defunct)
+
+#### Summary
+
+This was a glorified data entry position for Sprint's "Content Stocking" system of primitive phone apps, games, ringtones, and wallpapers. My main duties at first were to analyze zip files from the content team upstream and enter file data into Excel spreadsheets. I quickly learned the filenames followed a predictable pattern, and I used VBA in Excel to automate my main duties. This led to new responsibilities within my group as Workflow Manager and Preload Manager.
+
+## Education
+---
+B.S. Information Systems  
+Minor in Business  
+Kansas State University  
+Manhattan, KS
