@@ -8,6 +8,15 @@
     <language>en</language>
     <lastBuildDate>Sun, 15 Jan 2023 11:17:07 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Résumé</title>
+      <link>https://shawnrenner.dev/resume/</link>
+      <pubDate>Sun, 15 Jan 2023 21:55:29 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/resume/</guid>
+      <description>Download a condensed version in PDF format Shawn Renner linkedin.com/in/shawnrenner github.com/srenner hello@shawnrenner.dev Summary I am a senior level software developer with proven results across multiple platforms and industries. I have written software for telecommunications, manufacturing, insurance, and pharma. The majority of my experience has been in the full stack ASP.NET world, ranging from old ASP.NET WebForms systems to the newest versions of MVC, .NET Core, and Blazor. On the front end, I typically work with Bootstrap, Vue.</description>
+    </item>
+    
+    <item>
       <title>About Me</title>
       <link>https://shawnrenner.dev/about/</link>
       <pubDate>Sun, 15 Jan 2023 11:25:02 -0600</pubDate>
