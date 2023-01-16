@@ -5,6 +5,16 @@
     <link>https://shawnrenner.dev/tags/</link>
     <description>Recent content in Tags on Shawn Renner</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="https://shawnrenner.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Jan 2023 12:01:09 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>update</title>
+      <link>https://shawnrenner.dev/tags/update/</link>
+      <pubDate>Mon, 16 Jan 2023 12:01:09 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/tags/update/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

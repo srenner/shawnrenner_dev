@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://shawnrenner.dev/posts/</loc>
+    <lastmod>2023-01-16T12:01:09-06:00</lastmod>
+  </url><url>
+    <loc>https://shawnrenner.dev/</loc>
+    <lastmod>2023-01-16T12:01:09-06:00</lastmod>
+  </url><url>
+    <loc>https://shawnrenner.dev/tags/</loc>
+    <lastmod>2023-01-16T12:01:09-06:00</lastmod>
+  </url><url>
+    <loc>https://shawnrenner.dev/tags/update/</loc>
+    <lastmod>2023-01-16T12:01:09-06:00</lastmod>
+  </url><url>
+    <loc>https://shawnrenner.dev/posts/we-are-live/</loc>
+    <lastmod>2023-01-16T12:01:09-06:00</lastmod>
+  </url><url>
     <loc>https://shawnrenner.dev/resume/</loc>
     <lastmod>2023-01-15T21:55:29-06:00</lastmod>
   </url><url>
@@ -11,18 +26,10 @@
     <loc>https://shawnrenner.dev/posts/hello-world/</loc>
     <lastmod>2023-01-15T11:17:07-06:00</lastmod>
   </url><url>
-    <loc>https://shawnrenner.dev/posts/</loc>
-    <lastmod>2023-01-15T11:17:07-06:00</lastmod>
-  </url><url>
-    <loc>https://shawnrenner.dev/</loc>
-    <lastmod>2023-01-15T11:17:07-06:00</lastmod>
-  </url><url>
     <loc>https://shawnrenner.dev/authors/</loc>
   </url><url>
     <loc>https://shawnrenner.dev/categories/</loc>
   </url><url>
     <loc>https://shawnrenner.dev/series/</loc>
-  </url><url>
-    <loc>https://shawnrenner.dev/tags/</loc>
   </url>
 </urlset>

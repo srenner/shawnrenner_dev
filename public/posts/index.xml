@@ -6,7 +6,17 @@
     <description>Recent content in Posts on Shawn Renner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Sun, 15 Jan 2023 11:17:07 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 12:01:09 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>We&#39;re Live!</title>
+      <link>https://shawnrenner.dev/posts/we-are-live/</link>
+      <pubDate>Mon, 16 Jan 2023 12:01:09 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/posts/we-are-live/</guid>
+      <description>I just finished uploading v1.0.0 of the site, which features a landing page with links, a simple &amp;ldquo;about&amp;rdquo; page, a long form résumé, and this blog.
+Next on my list is to create a more traditional pdf résumé, and start a &amp;ldquo;projects&amp;rdquo; section to highlight some projects I have been working on.</description>
+    </item>
+    
     <item>
       <title>Hello, World</title>
       <link>https://shawnrenner.dev/posts/hello-world/</link>
