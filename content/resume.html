@@ -16,19 +16,53 @@ draft: true
         margin-top: 4px;
         margin-bottom: 8px;
     }
+    .row {
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+    }
+    .column {
+        display: flex;
+        flex-direction: column;
+        flex-basis: 100%;
+        flex: 1;
+        align-self: flex-start;
+    }
+    .column h1 {
+        margin-top: 0;
+    }
+    .column-right {
+        text-align: right;
+    }
+    .small-links-box {
+        font-size: smaller;
+    }
+    .small-links-box a {
+        display: block;
+    }
+
+
 </style>
 
 <div>
     <a style="display: none" href="/">Download a condensed version in PDF format</a>
     <hr>
 
-    <h1>Shawn Renner</h1>
-
-    <a href="https://linkedin.com/in/shawnrenner" target="_blank">linkedin.com/in/shawnrenner</a>
-    <br>
-    <a href="https://github.com/srenner" target="_blank">github.com/srenner</a>
-    <br>
-    <a href="mailto:hello@shawnrenner.dev">hello@shawnrenner.dev</a>
+    <section title="Shawn Renner">
+        <div class="row">
+          <div class="column">
+            <h1>Shawn Renner</h1>
+          </div>
+          <div class="column column-right small-links-box">
+            <div>
+                <a href="https://linkedin.com/in/shawnrenner" target="_blank">linkedin.com/in/shawnrenner</a>
+                <a href="https://github.com/srenner" target="_blank">github.com/srenner</a>
+                <a href="mailto:hello@shawnrenner.dev">hello@shawnrenner.dev</a>
+            </div>
+          </div>
+        </div>
+    </div>
 
     <section title="Shawn Renner Summary">
         <h2>Summary</h2>
