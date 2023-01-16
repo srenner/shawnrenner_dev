@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2023-01-16T12:01:09-06:00
 title = "We're Live!"
 description = "v1.0.0 release"
