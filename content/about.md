@@ -16,16 +16,17 @@ draft: false
 | **Most excited about:**  | WebAssembly, interfacing software with hardware |
 -->
 
-* **Born and raised:** Kansas City
 
-* **Current home:** St. Louis
+**Born and raised:** *Kansas City*
 
-* **Occupation:** Software developer
+**Current home:** *St. Louis*
 
-* **First computer:** Commodore 64
+**Occupation:** *Software developer*
 
-* **Primary tech stack:** .NET, SQL Server, JavaScript
+**First computer:** *Commodore 64*
 
-* **Other dev interests:** Python, IoT, home & industrial automation
+**Primary tech stack:** *.NET, SQL Server, JavaScript*
 
-* **Most excited about:** WebAssembly, interfacing software with hardware
+**Other dev interests:** *Python, IoT, home & industrial automation*
+
+**Most excited about:** *WebAssembly, interfacing software with hardware*
