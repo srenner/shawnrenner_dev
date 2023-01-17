@@ -1,5 +1,6 @@
 ---
 title: "MegaSquirt"
+description: "DIY Automotive ECU and CAN-bus development"
 date: 2023-01-16T16:47:58-06:00
 draft: true
 ---
