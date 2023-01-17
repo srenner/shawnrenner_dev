@@ -17,16 +17,23 @@ draft: false
 -->
 
 
-**Born and raised:** *Kansas City*
+**Born and raised:**  
+*Kansas City*
 
-**Current home:** *St. Louis*
+**Current home:**  
+*St. Louis*
 
-**Occupation:** *Software developer*
+**Occupation:**  
+*Software developer*
 
-**First computer:** *Commodore 64*
+**First computer:**  
+*Commodore 64*
 
-**Primary tech stack:** *.NET, SQL Server, JavaScript*
+**Primary tech stack:**  
+*.NET, SQL Server, JavaScript*
 
-**Other dev interests:** *Python, IoT, home & industrial automation*
+**Other dev interests:**  
+*Python, IoT, home & industrial automation*
 
-**Most excited about:** *WebAssembly, interfacing software with hardware*
+**Most excited about:**  
+*WebAssembly, interfacing software with hardware*
