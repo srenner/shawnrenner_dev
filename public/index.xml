@@ -6,7 +6,27 @@
     <description>Recent content on Shawn Renner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jan 2023 12:01:09 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 16 Jan 2023 21:07:59 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SVO Registry</title>
+      <link>https://shawnrenner.dev/projects/svo-registry/</link>
+      <pubDate>Mon, 16 Jan 2023 21:07:59 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/projects/svo-registry/</guid>
+      <description>The SVO Registry was written in Python, using the Django framework, and using PostgreSQL as the data store. On the front end it has Bootstrap and a few jQuery plugins. It can be found at svoregistry.com.
+I am currently re-writing the site as a .NET Blazor Wasm project, and I&amp;rsquo;m making it multi-tenant so that other types of vehicles or collector items can be hosted as their own registry. The GitHub repo is here.</description>
+    </item>
+    
+    <item>
+      <title>MegaSquirt</title>
+      <link>https://shawnrenner.dev/projects/megasquirt/</link>
+      <pubDate>Mon, 16 Jan 2023 16:47:58 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/projects/megasquirt/</guid>
+      <description>MegaSquirt is an aftermarket automotive ECU that controls a car&amp;rsquo;s fuel injection and ignition system. I got started with it in 2009, and it&amp;rsquo;s what initially got me interested in embedded programming and hobby electronics. Spiritually, MegaSquirt is to car ECUs what the Raspberry Pi is for computers. It&amp;rsquo;s affordable, educational, and DIY friendly.
+I am currently using a self-built MegaSquirt II to power my 1986 Mustang SVO. MegaSquirt is ideal for early fuel injection cars of the 1980s and 1990s.</description>
+    </item>
+    
     <item>
       <title>We&#39;re Live!</title>
       <link>https://shawnrenner.dev/posts/we-are-live/</link>
@@ -32,13 +52,20 @@ Next on my list is to create a more traditional pdf résumé, and start a &amp;l
       <pubDate>Sun, 15 Jan 2023 11:25:02 -0600</pubDate>
       
       <guid>https://shawnrenner.dev/about/</guid>
-      <description>Born and raised: Kansas City
-Current home: St. Louis
-Occupation: Software developer
-First computer: Commodore 64
-Primary tech stack: .NET, SQL Server, JavaScript
-Other dev interests: Python, IoT, home &amp;amp; industrial automation
-Most excited about: WebAssembly, interfacing software with hardware</description>
+      <description>Born and raised:
+Kansas City
+Current home:
+St. Louis
+Occupation:
+Software developer
+First computer:
+Commodore 64
+Primary tech stack:
+.NET, SQL Server, JavaScript
+Other dev interests:
+Python, IoT, home &amp;amp; industrial automation
+Most excited about:
+WebAssembly, interfacing software with hardware</description>
     </item>
     
     <item>

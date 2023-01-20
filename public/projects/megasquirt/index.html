@@ -2,7 +2,7 @@
 <html lang="en">
   <head>
     <title>
-  About Me · Shawn Renner
+  MegaSquirt · Shawn Renner
 </title>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -12,63 +12,24 @@
 
 
 <meta name="author" content="Shawn Renner">
-<meta name="description" content="Born and raised:
-Kansas City
-Current home:
-St. Louis
-Occupation:
-Software developer
-First computer:
-Commodore 64
-Primary tech stack:
-.NET, SQL Server, JavaScript
-Other dev interests:
-Python, IoT, home &amp; industrial automation
-Most excited about:
-WebAssembly, interfacing software with hardware">
+<meta name="description" content="DIY Automotive ECU and CAN-bus development">
 <meta name="keywords" content="blog,developer,personal">
 
 <meta name="twitter:card" content="summary"/>
-<meta name="twitter:title" content="About Me"/>
-<meta name="twitter:description" content="Born and raised:
-Kansas City
-Current home:
-St. Louis
-Occupation:
-Software developer
-First computer:
-Commodore 64
-Primary tech stack:
-.NET, SQL Server, JavaScript
-Other dev interests:
-Python, IoT, home &amp; industrial automation
-Most excited about:
-WebAssembly, interfacing software with hardware"/>
+<meta name="twitter:title" content="MegaSquirt"/>
+<meta name="twitter:description" content="DIY Automotive ECU and CAN-bus development"/>
 
-<meta property="og:title" content="About Me" />
-<meta property="og:description" content="Born and raised:
-Kansas City
-Current home:
-St. Louis
-Occupation:
-Software developer
-First computer:
-Commodore 64
-Primary tech stack:
-.NET, SQL Server, JavaScript
-Other dev interests:
-Python, IoT, home &amp; industrial automation
-Most excited about:
-WebAssembly, interfacing software with hardware" />
+<meta property="og:title" content="MegaSquirt" />
+<meta property="og:description" content="DIY Automotive ECU and CAN-bus development" />
 <meta property="og:type" content="article" />
-<meta property="og:url" content="https://shawnrenner.dev/about/" /><meta property="article:section" content="" />
-<meta property="article:published_time" content="2023-01-15T11:25:02-06:00" />
-<meta property="article:modified_time" content="2023-01-15T11:25:02-06:00" />
+<meta property="og:url" content="https://shawnrenner.dev/projects/megasquirt/" /><meta property="article:section" content="projects" />
+<meta property="article:published_time" content="2023-01-16T16:47:58-06:00" />
+<meta property="article:modified_time" content="2023-01-16T16:47:58-06:00" />
 
 
 
 
-<link rel="canonical" href="https://shawnrenner.dev/about/">
+<link rel="canonical" href="https://shawnrenner.dev/projects/megasquirt/">
 
 
 <link rel="preload" href="/fonts/forkawesome-webfont.woff2?v=1.2.0" as="font" type="font/woff2" crossorigin>
@@ -178,28 +139,35 @@ WebAssembly, interfacing software with hardware" />
   <article>
     <header>
       <h1 class="title">
-        <a class="title-link" href="https://shawnrenner.dev/about/">
-          About Me
+        <a class="title-link" href="https://shawnrenner.dev/projects/megasquirt/">
+          MegaSquirt
         </a>
       </h1>
     </header>
 
-    <!-- raw HTML omitted -->
-<!-- raw HTML omitted -->
-<p><strong>Born and raised:</strong><br>
-<em>Kansas City</em></p>
-<p><strong>Current home:</strong><br>
-<em>St. Louis</em></p>
-<p><strong>Occupation:</strong><br>
-<em>Software developer</em></p>
-<p><strong>First computer:</strong><br>
-<em>Commodore 64</em></p>
-<p><strong>Primary tech stack:</strong><br>
-<em>.NET, SQL Server, JavaScript</em></p>
-<p><strong>Other dev interests:</strong><br>
-<em>Python, IoT, home &amp; industrial automation</em></p>
-<p><strong>Most excited about:</strong><br>
-<em>WebAssembly, interfacing software with hardware</em></p>
+    <p><a href="https://megasquirt.info/">MegaSquirt</a> is an aftermarket automotive ECU that controls a car&rsquo;s fuel injection and ignition system. I got started with it in 2009, and it&rsquo;s what initially got me interested in embedded programming and hobby electronics. Spiritually, MegaSquirt is to car ECUs what the Raspberry Pi is for computers. It&rsquo;s affordable, educational, and DIY friendly.</p>
+<p>I am currently using a self-built MegaSquirt II to power my 1986 Mustang SVO. MegaSquirt is ideal for early fuel injection cars of the 1980s and 1990s. With a few modifications, I was able to make MegaSquirt work with the rest of the car&rsquo;s fuel system and also take control of the Ford TFI ignition system. I no longer have to rely on Ford&rsquo;s restrictive air metering device (called a VAM), as MegaSquirt defaults to using a &ldquo;speed density&rdquo; calculation to deliver the correct amount of fuel. This level of control can help someone tune their car to run better than it did when it was new!</p>
+<p>I have a MegaSquirt III on my workbench that is almost ready to go in the car. For the new upgrade, I am utilizing the CAN-bus capability of the ECU to integrate with my own Arduino projects. I have a series of projects I call AutoCAN that I&rsquo;m excited to share.</p>
+<ul>
+<li>
+<p><a href="https://github.com/srenner/AutoCAN_Meguinauge">AutoCAN_Meguinauge</a> - This project polls MegaSquirt to display useful gauges on a character display. I intentionally used older display tech to make it look more at home in the car.</p>
+</li>
+<li>
+<p><a href="https://github.com/srenner/AutoCAN_Epasuino">AutoCAN_Epasuino</a> - This project is a piggyback module for my car&rsquo;s aftermarket electric power assist steering (EPAS). It takes speed sensor data from the car to reduce steering assist at high speed, and has six user-selectable modes.</p>
+</li>
+<li>
+<p><a href="https://github.com/srenner/AutoCAN_SensorHub">AutoCAN_SensorHub</a> - This project allows me to add all manner of sensor inputs to the main ECU without modifying the car&rsquo;s main wiring harness. I have the following sensor inputs in mind for my car:</p>
+<ul>
+<li>Fuel pressure sensor</li>
+<li>Speed sensor from the car&rsquo;s transmission</li>
+<li>3-axis accelerometer</li>
+<li>GPS</li>
+<li>Compass heading</li>
+<li>Reverse trigger wire from the car&rsquo;s transmission</li>
+<li>Ambient temperature</li>
+</ul>
+</li>
+</ul>
 
   </article>
 </section>

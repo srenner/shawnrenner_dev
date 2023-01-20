@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Shawn Renner</title>
+    <link>https://shawnrenner.dev/projects/</link>
+    <description>Recent content in Projects on Shawn Renner</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 16 Jan 2023 21:07:59 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>SVO Registry</title>
+      <link>https://shawnrenner.dev/projects/svo-registry/</link>
+      <pubDate>Mon, 16 Jan 2023 21:07:59 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/projects/svo-registry/</guid>
+      <description>The SVO Registry was written in Python, using the Django framework, and using PostgreSQL as the data store. On the front end it has Bootstrap and a few jQuery plugins. It can be found at svoregistry.com.
+I am currently re-writing the site as a .NET Blazor Wasm project, and I&amp;rsquo;m making it multi-tenant so that other types of vehicles or collector items can be hosted as their own registry. The GitHub repo is here.</description>
+    </item>
+    
+    <item>
+      <title>MegaSquirt</title>
+      <link>https://shawnrenner.dev/projects/megasquirt/</link>
+      <pubDate>Mon, 16 Jan 2023 16:47:58 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/projects/megasquirt/</guid>
+      <description>MegaSquirt is an aftermarket automotive ECU that controls a car&amp;rsquo;s fuel injection and ignition system. I got started with it in 2009, and it&amp;rsquo;s what initially got me interested in embedded programming and hobby electronics. Spiritually, MegaSquirt is to car ECUs what the Raspberry Pi is for computers. It&amp;rsquo;s affordable, educational, and DIY friendly.
+I am currently using a self-built MegaSquirt II to power my 1986 Mustang SVO. MegaSquirt is ideal for early fuel injection cars of the 1980s and 1990s.</description>
+    </item>
+    
+  </channel>
+</rss>
