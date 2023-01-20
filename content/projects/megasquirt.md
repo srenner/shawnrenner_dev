@@ -2,7 +2,7 @@
 title: "MegaSquirt"
 description: "DIY Automotive ECU and CAN-bus development"
 date: 2023-01-16T16:47:58-06:00
-draft: true
+draft: false
 ---
 
 [MegaSquirt](https://megasquirt.info/) is an aftermarket automotive ECU that controls a car's fuel injection and ignition system. I got started with it in 2009, and it's what initially got me interested in embedded programming and hobby electronics. Spiritually, MegaSquirt is to car ECUs what the Raspberry Pi is for computers. It's affordable, educational, and DIY friendly.
