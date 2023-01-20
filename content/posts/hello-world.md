@@ -2,7 +2,7 @@
 draft = false
 date = 2023-01-15T11:17:07-06:00
 title = "Hello, World"
-description = ""
+description = "Testing Hugo"
 slug = ""
 authors = []
 tags = []
