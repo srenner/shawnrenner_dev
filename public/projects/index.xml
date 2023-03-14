@@ -6,7 +6,27 @@
     <description>Recent content in Projects on Shawn Renner</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en</language>
-    <lastBuildDate>Mon, 16 Jan 2023 21:07:59 -0600</lastBuildDate><atom:link href="https://shawnrenner.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 13 Mar 2023 10:20:19 -0500</lastBuildDate><atom:link href="https://shawnrenner.dev/projects/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CompostBuddy</title>
+      <link>https://shawnrenner.dev/projects/compost-buddy/</link>
+      <pubDate>Mon, 13 Mar 2023 10:20:19 -0500</pubDate>
+      
+      <guid>https://shawnrenner.dev/projects/compost-buddy/</guid>
+      <description>This is a WiFi connected IoT project that monitors a home compost tumbler. The system monitors compost temperature and tumbling frequency. I built this primarily out of parts I bought at Adafruit, and I put the entire bill of materials in GitHub.
+I wrote the code on the ESP32 in CircuitPython. CircuitPython is Adafruit&amp;rsquo;s port of MicroPython, which is a lean implementation of Python 3. Data from the device is pushed to an API I wrote in Express.</description>
+    </item>
+    
+    <item>
+      <title>Home Assistant</title>
+      <link>https://shawnrenner.dev/projects/hass/</link>
+      <pubDate>Wed, 18 Jan 2023 08:34:41 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/projects/hass/</guid>
+      <description>I use a self-hosted Home Assistant installation for my home automation setup. I primarily use Z-Wave devices at home because they are good quality, low power, and are not connected to the Internet. I am also curious about where Matter will go, because it seems to be getting attention from a lot of big tech companies.
+I have placed backups of my Home Assistant configuration files in this GitHub repository.</description>
+    </item>
+    
     <item>
       <title>SVO Registry</title>
       <link>https://shawnrenner.dev/projects/svo-registry/</link>
