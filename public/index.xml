@@ -13,8 +13,8 @@
       <pubDate>Mon, 13 Mar 2023 10:20:19 -0500</pubDate>
       
       <guid>https://shawnrenner.dev/projects/compost-buddy/</guid>
-      <description>This is a WiFi connected IoT project that monitors a home compost tumbler. The system monitors compost temperature and tumbling frequency. I built this primarily out of parts I bought at Adafruit, and I put the entire bill of materials in GitHub.
-I wrote the code on the ESP32 in CircuitPython. CircuitPython is Adafruit&amp;rsquo;s port of MicroPython, which is a lean implementation of Python 3. Data from the device is pushed to an API I wrote in Express.</description>
+      <description>With home composting, you want your material to break down in a thermophilic temperature range between about 135°F and 160°F. This is warm enough to kill pathogenic organisms and weed seeds, and ensures an efficient breakdown of organic material. The compost must be occasionally &amp;ldquo;turned&amp;rdquo; or tumbled to properly aerate the pile and ensure all the material is subjected to the heat.
+To help keep track of my compost temperature and aeration, I built this WiFi connected IoT project.</description>
     </item>
     
     <item>
