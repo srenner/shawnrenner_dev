@@ -34,7 +34,7 @@ I have placed backups of my Home Assistant configuration files in this GitHub re
       
       <guid>https://shawnrenner.dev/projects/svo-registry/</guid>
       <description>The SVO Registry was written in Python, using the Django framework, and using PostgreSQL as the data store. On the front end it has Bootstrap and a few jQuery plugins. It can be found at svoregistry.com.
-I am currently re-writing the site as a .NET Blazor Wasm project, and I&amp;rsquo;m making it multi-tenant so that other types of vehicles or collector items can be hosted as their own registry. The GitHub repo is here.</description>
+I am currently re-writing the site as a .NET Blazor Wasm project called CollectorRegistry, and I&amp;rsquo;m making it multi-tenant so that other types of vehicles or collector items can be hosted as their own registry.</description>
     </item>
     
     <item>
