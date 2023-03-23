@@ -9,7 +9,7 @@
       </a>
     </h1>
     {{ .Content }}
-    <ul>
+    <ul class="card-list-container">
       {{- range .Paginator.Pages -}}
         {{- .Render "li" -}}
       {{- end -}}
@@ -17,4 +17,31 @@
 
     {{ partial "pagination.html" . }}
   </section>
+  <style scoped>
+    .card-list-container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .card-list-container > * {
+      width:100%;
+    }
+    @media (min-width:768px) {
+    .card-list-container > * {
+        width:50%;
+    }
+}
+
+    .card {
+      margin: 15px;
+      border-radius: 5px;
+      border: solid 3px gray;
+    }
+    .card-title {
+        background-color: rgba(125, 125, 125, 0.2);
+        padding: 5px;
+    }
+    .card-body {
+        padding: 5px;
+    }
+  </style>
 {{ end }}

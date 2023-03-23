@@ -1,8 +1,9 @@
 ---
 title: "SVO Registry"
-description: "Python web app being re-written with Blazor"
+description: "Python web app being re-written with .NET Blazor"
 date: 2023-01-16T21:07:59-06:00
 draft: false
+thumbnail: "/svo-stock-photo.jpg"
 ---
 
 ![Mustang SVO](/svo-stock-photo.jpg)

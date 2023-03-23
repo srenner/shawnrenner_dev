@@ -1,4 +1,22 @@
-<li style="margin-bottom: 20px">
-    <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
-    <span>{{ .Description }}</span>
+
+
+<li>
+    <div class="card">
+        <div class="card-title">
+            <a class="title" href="{{ .Params.externalLink | default .RelPermalink }}">{{ .Title }}</a>
+        </div>
+        <div class="card-body">
+            <a href="{{ .Params.externalLink | default .RelPermalink }}">
+                <img src="{{ .Params.thumbnail }}" alt="Project thumbnail image" />
+            </a>
+            <span>{{ .Description }}</span>
+        </div>
+    </div>
 </li>
+
+
+<style scoped>
+
+
+
+</style>

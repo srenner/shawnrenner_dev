@@ -18,16 +18,6 @@ To help keep track of my compost temperature and aeration, I built this WiFi con
     </item>
     
     <item>
-      <title>Home Assistant</title>
-      <link>https://shawnrenner.dev/projects/hass/</link>
-      <pubDate>Wed, 18 Jan 2023 08:34:41 -0600</pubDate>
-      
-      <guid>https://shawnrenner.dev/projects/hass/</guid>
-      <description>I use a self-hosted Home Assistant installation for my home automation setup. I primarily use Z-Wave devices at home because they are good quality, low power, and are not connected to the Internet. I am also curious about where Matter will go, because it seems to be getting attention from a lot of big tech companies.
-I have placed backups of my Home Assistant configuration files in this GitHub repository.</description>
-    </item>
-    
-    <item>
       <title>SVO Registry</title>
       <link>https://shawnrenner.dev/projects/svo-registry/</link>
       <pubDate>Mon, 16 Jan 2023 21:07:59 -0600</pubDate>
@@ -45,6 +35,16 @@ I am currently re-writing the site as a .NET Blazor Wasm project called Collecto
       <guid>https://shawnrenner.dev/projects/megasquirt/</guid>
       <description>MegaSquirt is an aftermarket automotive ECU that controls a car&amp;rsquo;s fuel injection and ignition system. I got started with it in 2009, and it&amp;rsquo;s what initially got me interested in embedded programming and hobby electronics. Spiritually, MegaSquirt is to car ECUs what the Raspberry Pi is for computers. It&amp;rsquo;s affordable, educational, and DIY friendly.
 I am currently using a self-built MegaSquirt II to power my 1986 Mustang SVO. MegaSquirt is ideal for early fuel injection cars of the 1980s and 1990s.</description>
+    </item>
+    
+    <item>
+      <title>Home Assistant</title>
+      <link>https://shawnrenner.dev/projects/hass/</link>
+      <pubDate>Sun, 01 Jan 2023 08:34:41 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/projects/hass/</guid>
+      <description>I use a self-hosted Home Assistant installation for my home automation setup. I primarily use Z-Wave devices at home because they are good quality, low power, and are not connected to the Internet. I am also curious about where Matter will go, because it seems to be getting attention from a lot of big tech companies.
+I have placed backups of my Home Assistant configuration files in this GitHub repository.</description>
     </item>
     
   </channel>

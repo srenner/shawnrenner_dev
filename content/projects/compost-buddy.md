@@ -1,8 +1,9 @@
 ---
 title: "CompostBuddy"
-description: "ESP32 IoT device"
+description: "ESP32 IoT device using CircuitPython"
 date: 2023-03-13T10:20:19-05:00
 draft: false
+thumbnail: "/CompostBuddy.jpg"
 ---
 
 ![CompostBuddy IoT Device](/CompostBuddy.jpg)

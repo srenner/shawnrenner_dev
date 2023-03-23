@@ -1,8 +1,9 @@
 ---
 title: "MegaSquirt"
-description: "DIY Automotive ECU and CAN bus development"
+description: "DIY EFI and Arduino CAN bus development"
 date: 2023-01-16T16:47:58-06:00
 draft: false
+thumbnail: "/SVO_engine.jpg"
 ---
 
 ![Engine Bay](/SVO_engine.jpg)

@@ -141,19 +141,91 @@
       </a>
     </h1>
     
-    <ul><li style="margin-bottom: 20px">
-    <a class="title" href="/projects/compost-buddy/">CompostBuddy</a>
-    <span>ESP32 IoT device</span>
-</li><li style="margin-bottom: 20px">
-    <a class="title" href="/projects/hass/">Home Assistant</a>
-    <span>Self-hosted home automation server</span>
-</li><li style="margin-bottom: 20px">
-    <a class="title" href="/projects/svo-registry/">SVO Registry</a>
-    <span>Python web app being re-written with Blazor</span>
-</li><li style="margin-bottom: 20px">
-    <a class="title" href="/projects/megasquirt/">MegaSquirt</a>
-    <span>DIY Automotive ECU and CAN bus development</span>
-</li></ul>
+    <ul class="card-list-container">
+
+<li>
+    <div class="card">
+        <div class="card-title">
+            <a class="title" href="/projects/compost-buddy/">CompostBuddy</a>
+        </div>
+        <div class="card-body">
+            <a href="/projects/compost-buddy/">
+                <img src="/CompostBuddy.jpg" alt="Project thumbnail image" />
+            </a>
+            <span>ESP32 IoT device using CircuitPython</span>
+        </div>
+    </div>
+</li>
+
+
+<style scoped>
+
+
+
+</style>
+
+<li>
+    <div class="card">
+        <div class="card-title">
+            <a class="title" href="/projects/svo-registry/">SVO Registry</a>
+        </div>
+        <div class="card-body">
+            <a href="/projects/svo-registry/">
+                <img src="/svo-stock-photo.jpg" alt="Project thumbnail image" />
+            </a>
+            <span>Python web app being re-written with .NET Blazor</span>
+        </div>
+    </div>
+</li>
+
+
+<style scoped>
+
+
+
+</style>
+
+<li>
+    <div class="card">
+        <div class="card-title">
+            <a class="title" href="/projects/megasquirt/">MegaSquirt</a>
+        </div>
+        <div class="card-body">
+            <a href="/projects/megasquirt/">
+                <img src="/SVO_engine.jpg" alt="Project thumbnail image" />
+            </a>
+            <span>DIY EFI and Arduino CAN bus development</span>
+        </div>
+    </div>
+</li>
+
+
+<style scoped>
+
+
+
+</style>
+
+<li>
+    <div class="card">
+        <div class="card-title">
+            <a class="title" href="/projects/hass/">Home Assistant</a>
+        </div>
+        <div class="card-body">
+            <a href="/projects/hass/">
+                <img src="/HomeAssistant.png" alt="Project thumbnail image" />
+            </a>
+            <span>Self-hosted home automation server</span>
+        </div>
+    </div>
+</li>
+
+
+<style scoped>
+
+
+
+</style></ul>
 
     
 
@@ -163,6 +235,33 @@
 
 
   </section>
+  <style scoped>
+    .card-list-container {
+      display: flex;
+      flex-wrap: wrap;
+    }
+    .card-list-container > * {
+      width:100%;
+    }
+    @media (min-width:768px) {
+    .card-list-container > * {
+        width:50%;
+    }
+}
+
+    .card {
+      margin: 15px;
+      border-radius: 5px;
+      border: solid 3px gray;
+    }
+    .card-title {
+        background-color: rgba(125, 125, 125, 0.2);
+        padding: 5px;
+    }
+    .card-body {
+        padding: 5px;
+    }
+  </style>
 
     </div>
 

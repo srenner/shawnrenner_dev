@@ -18,16 +18,6 @@ To help keep track of my compost temperature and aeration, I built this WiFi con
     </item>
     
     <item>
-      <title>Home Assistant</title>
-      <link>https://shawnrenner.dev/projects/hass/</link>
-      <pubDate>Wed, 18 Jan 2023 08:34:41 -0600</pubDate>
-      
-      <guid>https://shawnrenner.dev/projects/hass/</guid>
-      <description>I use a self-hosted Home Assistant installation for my home automation setup. I primarily use Z-Wave devices at home because they are good quality, low power, and are not connected to the Internet. I am also curious about where Matter will go, because it seems to be getting attention from a lot of big tech companies.
-I have placed backups of my Home Assistant configuration files in this GitHub repository.</description>
-    </item>
-    
-    <item>
       <title>SVO Registry</title>
       <link>https://shawnrenner.dev/projects/svo-registry/</link>
       <pubDate>Mon, 16 Jan 2023 21:07:59 -0600</pubDate>
@@ -95,6 +85,16 @@ WebAssembly, interfacing software with hardware</description>
       
       <guid>https://shawnrenner.dev/posts/hello-world/</guid>
       <description>This is the newest version of my personal website, which will host my professional profile as well as some side projects and hobbies. I am building this with a static site generator named Hugo. I like Hugo because it performs well and allows me to write content in Markdown format.</description>
+    </item>
+    
+    <item>
+      <title>Home Assistant</title>
+      <link>https://shawnrenner.dev/projects/hass/</link>
+      <pubDate>Sun, 01 Jan 2023 08:34:41 -0600</pubDate>
+      
+      <guid>https://shawnrenner.dev/projects/hass/</guid>
+      <description>I use a self-hosted Home Assistant installation for my home automation setup. I primarily use Z-Wave devices at home because they are good quality, low power, and are not connected to the Internet. I am also curious about where Matter will go, because it seems to be getting attention from a lot of big tech companies.
+I have placed backups of my Home Assistant configuration files in this GitHub repository.</description>
     </item>
     
   </channel>
