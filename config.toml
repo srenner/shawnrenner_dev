@@ -123,7 +123,7 @@ url = "https://www.linkedin.com/in/shawnrenner/"
 name = "Email"
 icon = "fa fa-2x fa-envelope"
 weight = 3
-url = "mailto:shawn.renner@gmail.com"
+url = "mailto:contact@shawnrenner.dev"
 
 #[[params.social]]
 #name = "Calendar"
