@@ -23,8 +23,7 @@ To help keep track of my compost temperature and aeration, I built this WiFi con
       <pubDate>Mon, 16 Jan 2023 21:07:59 -0600</pubDate>
       
       <guid>https://shawnrenner.dev/projects/svo-registry/</guid>
-      <description>The SVO Registry was written in Python, using the Django framework, and using PostgreSQL as the data store. On the front end it has Bootstrap and a few jQuery plugins. It can be found at svoregistry.com.
-I am currently re-writing the site as a .NET Blazor Wasm project called CollectorRegistry, and I&amp;rsquo;m making it multi-tenant so that other types of vehicles or collector items can be hosted as their own registry.</description>
+      <description>I created the original SVO Registry several years ago. I was new to ASP.NET MVC, but at the time, the server-side frameworks I was more curious about were Ruby on Rails and Django. I settled on using Django, because I had been looking for a good reason to take a deeper dive into Python programming. Other tools in use are PostgreSQL, Bootstrap, a few jQuery plugins, and the Whoosh search engine.</description>
     </item>
     
     <item>
